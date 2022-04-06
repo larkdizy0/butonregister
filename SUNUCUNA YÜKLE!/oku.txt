@@ -1,0 +1,4 @@
+Selam, klasörde bulunan emojileri sunucuna bu isimler ile yüklemen gerekiyor botun doğru çalışması için. 
+ID falan girmeni gerektiren bir durum yok sadece yüklemen yeterli olacaktır.
+
+Öpüyorum sizi. -Striga
